@@ -45,7 +45,6 @@ function Main(): JSX.Element {
                 <Typography variant="subtitle2" color="primary" gutterBottom>
                 Vacation Project<br/>
             Designed and created by Alexandr Koryagin<br/>
-            Id: 321117046<br />
             Full Stack Web Development<br/>
             Class 84<br/>
             </Typography>
